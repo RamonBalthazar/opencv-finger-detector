@@ -1,5 +1,10 @@
-# opencv-finger-detector
-An analytical (and limited) approach to finger detection using OpenCV
+# Description
+
+This script extract frames from a webcam video stream (Mac) and processes them in order to find fingertips.
+
+### Approach
+
+~ Soon! ~
 
 # Sample video
 
