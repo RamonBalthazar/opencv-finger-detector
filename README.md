@@ -2,6 +2,10 @@
 
 This script extract frames from a webcam video stream (Mac) and processes them in order to find fingertips.
 
+### How to Use
+
+~ Soon! ~
+
 ### Approach
 
 ~ Soon! ~
